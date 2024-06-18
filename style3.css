@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#nav-text {
+    font-size: 30px;
+    font-family: "Bree Serif";
+    font-weight: 500;
+
+    font-style: italic;
+}
+
+.navbar-custom {
+    background-color: #00FFFF;
+}
+
+.nav-contents {
+    color: white;
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: 400;
+}
+.for-every-child{
+  color:black;
+  font-size:20px;
+  font-weight:300;
+  font-style:normal;
+  font-family:"Roboto";
+}
+
+.home-page {
+    background-color: #00FFFF;
+
+}
+
+.heading-home {
+    font-family: "Bree Serif";
+    font-style: italic;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.About-heading {
+    font-family: "Bree Serif";
+    font-style: italic;
+    font-size: 25px;
+    font-weight: 500;
+   
+}
+
+.About-desc {
+    font-weight: 400;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-style: italic;
+   
+}
+
+.OurImpact-h1 {
+    font-family: "Bree Serif";
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 500;
+}
+
+.OurImpact {
+    padding: 40px;
+    text-align: center;
+    background-color: #00FFFF;
+    height:300px;
+   
+}
+
+.button-login {
+    background-color: white;
+    color: #00FFFF;
+    font-family: "Bree Serif";
+    font-style: italic;
+    font-weight: 500;
+    font-size: 25px;
+    width: 160px;
+    height: 50px;
+}
+
+.button-signup {
+    background-color: transparent;
+    color: white;
+    font-family: "Bree Serif";
+    font-style: italic;
+    font-weight: 500;
+    font-size: 25px;
+    width: 160px;
+    height: 50px;
+    border-width: 2px;
+    border-color: white;
+}
+.loginform-container{
+ 
+  padding:30px;
+  margin:50px;
+  border-width:2px;
+  border-style:solid;
+  border-color:black;
+}
+/* .loginbutton2{
+  background-color:#00FFFF;
+  color:white;
+  font-size:25px;
+  font-weight:500;
+  border-width:0px;
+  font-family:"Roboto";
+} */
+
